@@ -1,0 +1,48 @@
+.navbar-nav a:hover
+{
+    border-bottom : 2px solid #CF315A !important;
+    color: white !important;
+    background-color: #CF315A;
+ 
+}
+.nav-link
+{
+    color: black !important;
+    padding-right: 10px !important;
+    padding-left: 10px !important;
+    
+}
+.navbg
+{
+    background-color: #F4F2EC;
+}
+.navbdr
+{
+border-bottom:3px solid #CF315A;
+}
+.carousel,.slide
+{
+    box-shadow:gray 0px 5px 5px;
+}
+.FONT
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.center
+{
+text-align: center  ;
+}
+.bdr-clr{
+    border:2px solid #CF315A !important;
+}
+.sdo
+{
+    text-shadow: grey 0px 5px 5px;
+}
+.link
+{
+    text-decoration: none;
+    color: black;
+}
+
+
